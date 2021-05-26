@@ -84,7 +84,7 @@ _ _ _ _ _
 - Rafael Montero  
 _ _ _ _ _   
 
-## License ![License](https://img.shields.io/badge/license-MIT-blue.svg)]
+## License ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 Jansten use the MIT License (MIT)
 
 _ _ _ _ _   
